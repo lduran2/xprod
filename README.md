@@ -12,9 +12,14 @@ prior to normalization.
 ### Motivation
 
 The use of this program is for applications such as
-* finding the moment of a force-vector formulation in engineering statics, or
-* finding the .
+finding the moment of a force-vector formulation in engineering statics.
 
-Cross product for graphing calulcators including the TI-84 Plus SE.
+## Install
+
+## Usage
+
+## Technologies used
+
+## Acknowledgements
 
 [lduran2]: https://github.com/lduran2
